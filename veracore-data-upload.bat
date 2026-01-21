@@ -2,7 +2,7 @@
 echo Starting Veracore Data Retrieval at %date% %time%
 
 :: Navigate to the project directory
-cd /d "C:\Users\Administrator\Scripts\InventoryHealthDashboard_DATA"
+cd /d "C:\Users\Administrator\Scripts\ResideoDashboard"
 echo Current directory: %cd%
 
 :: Check if virtual environment exists
