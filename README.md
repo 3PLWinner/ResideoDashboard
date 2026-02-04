@@ -1,5 +1,5 @@
-# Veracore Data Retrieval
-Gets a list of available reports with the Task ID, and will run a report based on the filters provided from the available reports.
+# Resideo Dashboard
+Uses VeraCore DynamicReporting API to pull "ResideoDashboardOrderStatus" report and put into SharePoint folder
 
 
 
@@ -11,7 +11,7 @@ Gets a list of available reports with the Task ID, and will run a report based o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/3PLWinner/InventoryHealthDashboard_DATA.git
+git clone https://github.com/3PLWinner/ResideoDashboard.git
 ```
 
 2. Create & Activate a virtual environment:
